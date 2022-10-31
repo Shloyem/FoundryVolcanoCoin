@@ -5,7 +5,6 @@ import "forge-std/Test.sol";
 import "../src/VolcanoCoin.sol";
 
 contract VolcanoCoinTest is Test {
-    Counter public counter;
     VolcanoCoin public volcanoCoin;
     uint256 public totalSupply;
 
